@@ -1,437 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Гера//Расписание ВТВ-467//RU
+PRODID:-//VSTU//Schedule VTV-467 2026//RU
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Расписание ВТВ-467
+X-WR-CALNAME:ВТВ-467 Расписание 2026
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:20260206T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260206T183500
-DTEND;TZID=Europe/Moscow:20260206T200000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260213T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260213T183500
-DTEND;TZID=Europe/Moscow:20260213T200000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260213T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260213T183500
-DTEND;TZID=Europe/Moscow:20260213T200000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260213T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260213T183500
-DTEND;TZID=Europe/Moscow:20260213T213000
+UID:6d997f9f-26c5-444a-b154-903eb0300229
+DTSTART:20260213T153500Z
+DTEND:20260213T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260214T101000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260214T101000
-DTEND;TZID=Europe/Moscow:20260214T114000
+UID:fbc65d53-9965-4f06-aa6d-37d67d0e8822
+DTSTART:20260313T153500Z
+DTEND:20260313T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260214T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260214T115000
-DTEND;TZID=Europe/Moscow:20260214T132000
+UID:5b592a44-91d6-4429-9880-d12f7a7c96f4
+DTSTART:20260410T153500Z
+DTEND:20260410T183000Z
+SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
+DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:52c2f349-05c8-4b98-9908-126c5975f07f
+DTSTART:20260908T153500Z
+DTEND:20260908T183000Z
+SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
+DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:9dee8f7e-3e3b-4300-8a96-1527cb966dfd
+DTSTART:20260214T053000Z
+DTEND:20260214T084000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:149775e4-c06a-416c-9d71-364a0941861f
+DTSTART:20260214T085000Z
+DTEND:20260214T121000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260220T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260220T183500
-DTEND;TZID=Europe/Moscow:20260220T213000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260221T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260221T115000
-DTEND;TZID=Europe/Moscow:20260221T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260221T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260221T152000
-DTEND;TZID=Europe/Moscow:20260221T165000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260227T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260227T183500
-DTEND;TZID=Europe/Moscow:20260227T213000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260228T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260228T152000
-DTEND;TZID=Europe/Moscow:20260228T165000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260228T170000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260228T170000
-DTEND;TZID=Europe/Moscow:20260228T183000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260303T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260303T183500
-DTEND;TZID=Europe/Moscow:20260303T200000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260307T101000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260307T101000
-DTEND;TZID=Europe/Moscow:20260307T114000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260307T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260307T115000
-DTEND;TZID=Europe/Moscow:20260307T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260313T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260313T183500
-DTEND;TZID=Europe/Moscow:20260313T200000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260313T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260313T183500
-DTEND;TZID=Europe/Moscow:20260313T200000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260313T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260313T183500
-DTEND;TZID=Europe/Moscow:20260313T213000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260314T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260314T115000
-DTEND;TZID=Europe/Moscow:20260314T132000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260321T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260321T115000
-DTEND;TZID=Europe/Moscow:20260321T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260324T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260324T183500
-DTEND;TZID=Europe/Moscow:20260324T213000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260327T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260327T183500
-DTEND;TZID=Europe/Moscow:20260327T213000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260328T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260328T152000
-DTEND;TZID=Europe/Moscow:20260328T165000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260328T170000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260328T170000
-DTEND;TZID=Europe/Moscow:20260328T183000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260404T101000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260404T101000
-DTEND;TZID=Europe/Moscow:20260404T114000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260404T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260404T115000
-DTEND;TZID=Europe/Moscow:20260404T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260410T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260410T183500
-DTEND;TZID=Europe/Moscow:20260410T200000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260410T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260410T183500
-DTEND;TZID=Europe/Moscow:20260410T200000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260410T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260410T183500
-DTEND;TZID=Europe/Moscow:20260410T213000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260411T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260411T115000
-DTEND;TZID=Europe/Moscow:20260411T132000
+UID:3e8c8abb-6892-4ef4-b912-0f9edeeac83b
+DTSTART:20260411T085000Z
+DTEND:20260411T121000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260418T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260418T115000
-DTEND;TZID=Europe/Moscow:20260418T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260425T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260425T115000
-DTEND;TZID=Europe/Moscow:20260425T132000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260425T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260425T152000
-DTEND;TZID=Europe/Moscow:20260425T165000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260425T170000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260425T170000
-DTEND;TZID=Europe/Moscow:20260425T183000
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
-LOCATION:В-601
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260501T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260501T183500
-DTEND;TZID=Europe/Moscow:20260501T200000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260502T101000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260502T101000
-DTEND;TZID=Europe/Moscow:20260502T114000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260502T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260502T115000
-DTEND;TZID=Europe/Moscow:20260502T132000
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
-LOCATION:В-1302
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260502T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260502T152000
-DTEND;TZID=Europe/Moscow:20260502T165000
+UID:2de9bc9f-617c-4335-becc-4731470a2541
+DTSTART:20260220T153500Z
+DTEND:20260220T183000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260508T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260508T183500
-DTEND;TZID=Europe/Moscow:20260508T200000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260508T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260508T183500
-DTEND;TZID=Europe/Moscow:20260508T200000
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260515T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260515T183500
-DTEND;TZID=Europe/Moscow:20260515T213000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
-END:VEVENT
-BEGIN:VEVENT
-UID:20260516T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260516T115000
-DTEND;TZID=Europe/Moscow:20260516T132000
+UID:91e0d7ca-42aa-4319-b30a-1f4236c9b66d
+DTSTART:20260221T071000Z
+DTEND:20260221T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1302
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260516T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260516T152000
-DTEND;TZID=Europe/Moscow:20260516T165000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
+UID:cf7bee30-0a91-456d-b348-5dd1cb47d617
+DTSTART:20260321T071000Z
+DTEND:20260321T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1302
+END:VEVENT
+BEGIN:VEVENT
+UID:26a6f454-7d59-49d9-ab3a-0535733a5cca
+DTSTART:20260418T071000Z
+DTEND:20260418T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1302
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfc0c22-52e9-4205-a8af-06f8420a7332
+DTSTART:20260516T071000Z
+DTEND:20260516T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1302
+END:VEVENT
+BEGIN:VEVENT
+UID:d01497db-213c-4ae3-9526-72af6ebca13a
+DTSTART:20260221T104000Z
+DTEND:20260221T135000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260522T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260522T183500
-DTEND;TZID=Europe/Moscow:20260522T213000
+UID:1fb97caf-2f6a-4e71-ad22-aa38220b82c8
+DTSTART:20260502T104000Z
+DTEND:20260502T135000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:628b9668-b930-4e66-8eba-21faddc3ebcf
+DTSTART:20260227T153500Z
+DTEND:20260227T183000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260523T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260523T152000
-DTEND;TZID=Europe/Moscow:20260523T165000
+UID:4bda1667-e178-4603-94c0-7cbc0c8f9d56
+DTSTART:20260327T153500Z
+DTEND:20260327T183000Z
+SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:6f304134-336e-4dbc-a991-b792e250ca20
+DTSTART:20260324T153500Z
+DTEND:20260324T183000Z
+SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca288e7-2d06-4be0-afd6-00e3348ed4ad
+DTSTART:20260522T153500Z
+DTEND:20260522T183000Z
+SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:d8491520-5b26-476c-bbef-029f87ed681d
+DTSTART:20260228T122000Z
+DTEND:20260228T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260523T170000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260523T170000
-DTEND;TZID=Europe/Moscow:20260523T183000
+UID:38561699-ac2e-4244-9c9e-bec9920a5994
+DTSTART:20260328T122000Z
+DTEND:20260328T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
+END:VEVENT
+BEGIN:VEVENT
+UID:27dd2b64-eeda-4fed-9098-a7fc1668b66e
+DTSTART:20260425T122000Z
+DTEND:20260425T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
+END:VEVENT
+BEGIN:VEVENT
+UID:5700717e-cee2-4243-8b32-435217f580ef
+DTSTART:20260523T122000Z
+DTEND:20260523T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ca5dbd-8d6a-47b2-9313-d28a86c0b59e
+DTSTART:20260228T140000Z
+DTEND:20260228T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260529T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260529T183500
-DTEND;TZID=Europe/Moscow:20260529T213000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
-LOCATION:В-1301
-DTSTAMP:20260517T212906
+UID:46b47f7c-a04d-4699-83d4-254ea7e3e9b5
+DTSTART:20260328T140000Z
+DTEND:20260328T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:20260530T115000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260530T115000
-DTEND;TZID=Europe/Moscow:20260530T132000
+UID:2ee39bf5-e8f9-4338-8973-802b70321c30
+DTSTART:20260425T140000Z
+DTEND:20260425T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
+END:VEVENT
+BEGIN:VEVENT
+UID:fb110f7d-209e-4743-924c-64c2ecdbc892
+DTSTART:20260523T140000Z
+DTEND:20260523T153000Z
+SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
+DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
+LOCATION:В-601
+END:VEVENT
+BEGIN:VEVENT
+UID:a01ac9e8-24e0-41f3-8191-16ebc3840059
+DTSTART:20260307T071000Z
+DTEND:20260307T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1302
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260530T134000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260530T134000
-DTEND;TZID=Europe/Moscow:20260530T151000
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-DTSTAMP:20260517T212906
+UID:5660fb61-38dd-4770-b50a-7fc6aba417f3
+DTSTART:20260404T071000Z
+DTEND:20260404T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:20260530T152000-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260530T152000
-DTEND;TZID=Europe/Moscow:20260530T165000
+UID:d942ec22-c519-4a8d-8ef0-f28f311c6ccd
+DTSTART:20260502T071000Z
+DTEND:20260502T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1302
+END:VEVENT
+BEGIN:VEVENT
+UID:13868bdc-ac5d-4318-91b0-4e84b93b575b
+DTSTART:20260530T071000Z
+DTEND:20260530T102000Z
+SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1302
+END:VEVENT
+BEGIN:VEVENT
+UID:5decf3e5-ee28-4f89-81c8-199daa020540
+DTSTART:20260314T085000Z
+DTEND:20260314T121000Z
+SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:04eb70b2-adcd-425e-9232-012f4a9e0555
+DTSTART:20260425T085000Z
+DTEND:20260425T121000Z
+SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb8a112-eafd-4fee-b152-154822f8bee6
+DTSTART:20260515T153500Z
+DTEND:20260515T183000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
 END:VEVENT
 BEGIN:VEVENT
-UID:20260908T183500-vtv467@schedule-vstu
-DTSTART;TZID=Europe/Moscow:20260908T183500
-DTEND;TZID=Europe/Moscow:20260908T213000
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301
+UID:0e5d4ecd-958e-4152-88f3-764274687725
+DTSTART:20260529T153500Z
+DTEND:20260529T183000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
-DTSTAMP:20260517T212906
+END:VEVENT
+BEGIN:VEVENT
+UID:43d8b70e-6302-4a69-b996-cf5c9801e023
+DTSTART:20260516T104000Z
+DTEND:20260516T135000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:b767db26-f58a-47c7-a7c3-ab1580bf85d4
+DTSTART:20260530T104000Z
+DTEND:20260530T135000Z
+SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+LOCATION:В-1301
 END:VEVENT
 END:VCALENDAR
