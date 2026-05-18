@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//VSTU//Schedule VTV-467 2026//RU
+PRODID:-//VSTU//ВТВ-467 Schedule 2026//RU
 CALSCALE:GREGORIAN
 X-WR-CALNAME:ВТВ-467 Расписание 2026
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:6d997f9f-26c5-444a-b154-903eb0300229
+UID:02f2c73b-ee6b-42c2-8d69-8cc7985546c1
 DTSTART:20260213T153500Z
 DTEND:20260213T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
@@ -13,7 +13,7 @@ DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАуд
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:fbc65d53-9965-4f06-aa6d-37d67d0e8822
+UID:7a7cfee8-6fb3-4bbe-8289-d692177aacd3
 DTSTART:20260313T153500Z
 DTEND:20260313T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
@@ -21,7 +21,7 @@ DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАуд
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:5b592a44-91d6-4429-9880-d12f7a7c96f4
+UID:b8b84b7e-039c-4011-8304-dc5a0bea9a79
 DTSTART:20260410T153500Z
 DTEND:20260410T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
@@ -29,7 +29,7 @@ DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАуд
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:52c2f349-05c8-4b98-9908-126c5975f07f
+UID:a6637688-67d2-4bde-92e0-71e4db820370
 DTSTART:20260908T153500Z
 DTEND:20260908T183000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
@@ -37,7 +37,7 @@ DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАуд
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:9dee8f7e-3e3b-4300-8a96-1527cb966dfd
+UID:01542648-89c8-458e-9d0f-764baafb3fd7
 DTSTART:20260214T053000Z
 DTEND:20260214T084000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -45,23 +45,23 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:149775e4-c06a-416c-9d71-364a0941861f
+UID:1e4b9bb6-2509-43c9-9b09-0ea0f835c2bf
 DTSTART:20260214T085000Z
 DTEND:20260214T121000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:3e8c8abb-6892-4ef4-b912-0f9edeeac83b
+UID:7ef19259-88a7-45e8-b1fa-90c1f7eb619e
 DTSTART:20260411T085000Z
 DTEND:20260411T121000Z
 SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:2de9bc9f-617c-4335-becc-4731470a2541
+UID:fb9d9405-868e-4ed8-9585-b1dd2a01dd68
 DTSTART:20260220T153500Z
 DTEND:20260220T183000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -69,7 +69,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:91e0d7ca-42aa-4319-b30a-1f4236c9b66d
+UID:96d6651a-4c40-490c-a0d1-0147b583fa43
 DTSTART:20260221T071000Z
 DTEND:20260221T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
@@ -77,7 +77,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:cf7bee30-0a91-456d-b348-5dd1cb47d617
+UID:8e59aec3-4ff9-4e3c-9cb5-594c0c958cdc
 DTSTART:20260321T071000Z
 DTEND:20260321T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
@@ -85,7 +85,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:26a6f454-7d59-49d9-ab3a-0535733a5cca
+UID:88748a3f-6cc5-40f8-8bb7-ec5d32c42759
 DTSTART:20260418T071000Z
 DTEND:20260418T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
@@ -93,7 +93,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:0cfc0c22-52e9-4205-a8af-06f8420a7332
+UID:276b656b-1132-4aa6-a905-64c8b2c52625
 DTSTART:20260516T071000Z
 DTEND:20260516T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
@@ -101,7 +101,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:d01497db-213c-4ae3-9526-72af6ebca13a
+UID:0a9f813e-2fd8-4d59-85d4-047eb313ab79
 DTSTART:20260221T104000Z
 DTEND:20260221T135000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -109,7 +109,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:1fb97caf-2f6a-4e71-ad22-aa38220b82c8
+UID:a7c6bc19-cb41-4c00-b812-6c1645d2e707
 DTSTART:20260502T104000Z
 DTEND:20260502T135000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -117,7 +117,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:628b9668-b930-4e66-8eba-21faddc3ebcf
+UID:19253196-b1f3-4486-9da9-cbfad514f5df
 DTSTART:20260227T153500Z
 DTEND:20260227T183000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -125,7 +125,7 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:4bda1667-e178-4603-94c0-7cbc0c8f9d56
+UID:290555cc-d082-457a-812c-71acf0db9059
 DTSTART:20260327T153500Z
 DTEND:20260327T183000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -133,7 +133,7 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:6f304134-336e-4dbc-a991-b792e250ca20
+UID:43cb0afa-f150-4a7c-a5b9-df8a3ccc52aa
 DTSTART:20260324T153500Z
 DTEND:20260324T183000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -141,7 +141,7 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:8ca288e7-2d06-4be0-afd6-00e3348ed4ad
+UID:7e39b9a2-6c64-487f-a032-7f2d805caebd
 DTSTART:20260522T153500Z
 DTEND:20260522T183000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
@@ -149,39 +149,39 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:d8491520-5b26-476c-bbef-029f87ed681d
+UID:e987fc5b-e4cf-4b70-9334-0c71af0ff2cc
 DTSTART:20260228T122000Z
-DTEND:20260228T153000Z
+DTEND:20260228T135000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:38561699-ac2e-4244-9c9e-bec9920a5994
+UID:dee82e49-0bec-45a6-aca2-acdfc1b25d9e
 DTSTART:20260328T122000Z
-DTEND:20260328T153000Z
+DTEND:20260328T135000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:27dd2b64-eeda-4fed-9098-a7fc1668b66e
+UID:ea0d1daf-bedd-458c-b976-1dcf345bd012
 DTSTART:20260425T122000Z
-DTEND:20260425T153000Z
+DTEND:20260425T135000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:5700717e-cee2-4243-8b32-435217f580ef
+UID:161020c2-dcb7-44e6-b90d-9124fc1be2bc
 DTSTART:20260523T122000Z
-DTEND:20260523T153000Z
+DTEND:20260523T135000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ca5dbd-8d6a-47b2-9313-d28a86c0b59e
+UID:e1c62f08-2693-43e7-a626-243795229f4f
 DTSTART:20260228T140000Z
 DTEND:20260228T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
@@ -189,7 +189,7 @@ DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАуди�
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:46b47f7c-a04d-4699-83d4-254ea7e3e9b5
+UID:44e4a65f-7b05-44cd-a3ee-1ca0519f1f92
 DTSTART:20260328T140000Z
 DTEND:20260328T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
@@ -197,7 +197,7 @@ DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАуди�
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:2ee39bf5-e8f9-4338-8973-802b70321c30
+UID:ed8c575c-35e0-4a79-a023-b773b6d72f60
 DTSTART:20260425T140000Z
 DTEND:20260425T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
@@ -205,7 +205,7 @@ DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАуди�
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:fb110f7d-209e-4743-924c-64c2ecdbc892
+UID:1fd84333-1572-4186-94a0-bd32078e02ac
 DTSTART:20260523T140000Z
 DTEND:20260523T153000Z
 SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
@@ -213,7 +213,7 @@ DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАуди�
 LOCATION:В-601
 END:VEVENT
 BEGIN:VEVENT
-UID:a01ac9e8-24e0-41f3-8191-16ebc3840059
+UID:5ee7b843-78d5-4c6e-93fd-cf14dbbcfad6
 DTSTART:20260307T071000Z
 DTEND:20260307T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
@@ -221,7 +221,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:5660fb61-38dd-4770-b50a-7fc6aba417f3
+UID:e2616546-a354-43ae-9a8b-a3a1dc362ae9
 DTSTART:20260404T071000Z
 DTEND:20260404T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
@@ -229,7 +229,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:d942ec22-c519-4a8d-8ef0-f28f311c6ccd
+UID:d1c42ecb-0a63-4515-97a1-bc79125e712b
 DTSTART:20260502T071000Z
 DTEND:20260502T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
@@ -237,7 +237,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:13868bdc-ac5d-4318-91b0-4e84b93b575b
+UID:d4a4c783-9dc1-4ea8-9913-10a0c67d13e8
 DTSTART:20260530T071000Z
 DTEND:20260530T102000Z
 SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
@@ -245,7 +245,7 @@ DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАуди�
 LOCATION:В-1302
 END:VEVENT
 BEGIN:VEVENT
-UID:5decf3e5-ee28-4f89-81c8-199daa020540
+UID:dcc6e4f1-94de-4773-9133-5fab22259f79
 DTSTART:20260314T085000Z
 DTEND:20260314T121000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
@@ -253,7 +253,7 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:04eb70b2-adcd-425e-9232-012f4a9e0555
+UID:7150640d-b945-45ac-a190-985fc987feef
 DTSTART:20260425T085000Z
 DTEND:20260425T121000Z
 SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
@@ -261,7 +261,7 @@ DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАуд�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:3cb8a112-eafd-4fee-b152-154822f8bee6
+UID:f6060b48-3807-46e2-8662-0d248f07951c
 DTSTART:20260515T153500Z
 DTEND:20260515T183000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
@@ -269,7 +269,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5d4ecd-958e-4152-88f3-764274687725
+UID:a5c4112e-f3db-4dca-8943-614478dd0061
 DTSTART:20260529T153500Z
 DTEND:20260529T183000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
@@ -277,7 +277,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:43d8b70e-6302-4a69-b996-cf5c9801e023
+UID:a2edbdbd-84f8-412a-9572-530765ff626c
 DTSTART:20260516T104000Z
 DTEND:20260516T135000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
@@ -285,7 +285,7 @@ DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАуди�
 LOCATION:В-1301
 END:VEVENT
 BEGIN:VEVENT
-UID:b767db26-f58a-47c7-a7c3-ab1580bf85d4
+UID:da5b3086-9ca4-40bd-ba9f-f8af1a2e1e93
 DTSTART:20260530T104000Z
 DTEND:20260530T135000Z
 SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
