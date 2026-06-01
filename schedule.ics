@@ -292,4 +292,20 @@ SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕ
 DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
 LOCATION:В-1301
 END:VEVENT
+BEGIN:VEVENT
+UID:exam-vtv467-intro-dev-20260615
+DTSTART:20260615T104000Z
+DTEND:20260615T124000Z
+SUMMARY:Экзамен: Введение в разработку программного обеспечения
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\\nАудитория: В-1301\\nГруппа: ВТВ-467
+LOCATION:ВГТУ, В-1301
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-vtv467-infosec-20260620
+DTSTART:20260620T104000Z
+DTEND:20260620T124000Z
+SUMMARY:Экзамен: Защита информации
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1302\\nГруппа: ВТВ-467
+LOCATION:ВГТУ, В-1302
+END:VEVENT
 END:VCALENDAR
