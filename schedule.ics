@@ -1,743 +1,921 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//VSTU//Расписание ВТВ-467 и ВТВ-567 2026//RU
+PRODID:-//Nikita Trifonov//VSTU VTV-567 Schedule//RU
 CALSCALE:GREGORIAN
-X-WR-CALNAME:ВГТУ Расписание ВТВ-467 (весна 2026) и ВТВ-567 (осень 2026)
+METHOD:PUBLISH
+X-WR-CALNAME:ВГТУ — ВТВ-567 — 1 семестр 2026/27
 X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:02f2c73b-ee6b-42c2-8d69-8cc7985546c1
-DTSTART:20260213T153500Z
-DTEND:20260213T183000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:7a7cfee8-6fb3-4bbe-8289-d692177aacd3
-DTSTART:20260313T153500Z
-DTEND:20260313T183000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:b8b84b7e-039c-4011-8304-dc5a0bea9a79
-DTSTART:20260410T153500Z
-DTEND:20260410T183000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:a6637688-67d2-4bde-92e0-71e4db820370
-DTSTART:20260908T153500Z
-DTEND:20260908T183000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (лекция)
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:01542648-89c8-458e-9d0f-764baafb3fd7
-DTSTART:20260214T053000Z
-DTEND:20260214T084000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:1e4b9bb6-2509-43c9-9b09-0ea0f835c2bf
-DTSTART:20260214T085000Z
-DTEND:20260214T121000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:7ef19259-88a7-45e8-b1fa-90c1f7eb619e
-DTSTART:20260411T085000Z
-DTEND:20260411T121000Z
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУНИКАЦИЙ (Лабораторная работа)
-DESCRIPTION:Преподаватель: ст. пр. Тарасов П.С.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:fb9d9405-868e-4ed8-9585-b1dd2a01dd68
-DTSTART:20260220T153500Z
-DTEND:20260220T183000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:96d6651a-4c40-490c-a0d1-0147b583fa43
-DTSTART:20260221T071000Z
-DTEND:20260221T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
+UID:d57285df-35e1-58cb-907e-5b127ad68eb3@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260910T183500
+DTEND;TZID=Europe/Moscow:20260910T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лекция)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
 LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8e59aec3-4ff9-4e3c-9cb5-594c0c958cdc
-DTSTART:20260321T071000Z
-DTEND:20260321T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:88748a3f-6cc5-40f8-8bb7-ec5d32c42759
-DTSTART:20260418T071000Z
-DTEND:20260418T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:276b656b-1132-4aa6-a905-64c8b2c52625
-DTSTART:20260516T071000Z
-DTEND:20260516T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:0a9f813e-2fd8-4d59-85d4-047eb313ab79
-DTSTART:20260221T104000Z
-DTEND:20260221T135000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+UID:5fc20425-4562-578d-899b-771cccfa7870@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260911T183500
+DTEND;TZID=Europe/Moscow:20260911T200000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a7c6bc19-cb41-4c00-b812-6c1645d2e707
-DTSTART:20260502T104000Z
-DTEND:20260502T135000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 1\nГруппа: ВТВ-467
+UID:238fadeb-d113-5bc5-ac98-00b56c348d88@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260911T200500
+DTEND;TZID=Europe/Moscow:20260911T213000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:19253196-b1f3-4486-9da9-cbfad514f5df
-DTSTART:20260227T153500Z
-DTEND:20260227T183000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+UID:3d45c857-2ba2-5973-81e6-9f7d27ca68da@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260914T183500
+DTEND;TZID=Europe/Moscow:20260914T200000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лекция)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:290555cc-d082-457a-812c-71acf0db9059
-DTSTART:20260327T153500Z
-DTEND:20260327T183000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
+UID:220724fd-42ba-5691-a165-0c6c3792c8c3@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260914T200500
+DTEND;TZID=Europe/Moscow:20260914T213000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:43cb0afa-f150-4a7c-a5b9-df8a3ccc52aa
-DTSTART:20260324T153500Z
-DTEND:20260324T183000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:7e39b9a2-6c64-487f-a032-7f2d805caebd
-DTSTART:20260522T153500Z
-DTEND:20260522T183000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:e987fc5b-e4cf-4b70-9334-0c71af0ff2cc
-DTSTART:20260228T122000Z
-DTEND:20260228T135000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:dee82e49-0bec-45a6-aca2-acdfc1b25d9e
-DTSTART:20260328T122000Z
-DTEND:20260328T135000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:ea0d1daf-bedd-458c-b976-1dcf345bd012
-DTSTART:20260425T122000Z
-DTEND:20260425T135000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:161020c2-dcb7-44e6-b90d-9124fc1be2bc
-DTSTART:20260523T122000Z
-DTEND:20260523T135000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (лекция)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:e1c62f08-2693-43e7-a626-243795229f4f
-DTSTART:20260228T140000Z
-DTEND:20260228T153000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:44e4a65f-7b05-44cd-a3ee-1ca0519f1f92
-DTSTART:20260328T140000Z
-DTEND:20260328T153000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:ed8c575c-35e0-4a79-a023-b773b6d72f60
-DTSTART:20260425T140000Z
-DTEND:20260425T153000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:1fd84333-1572-4186-94a0-bd32078e02ac
-DTSTART:20260523T140000Z
-DTEND:20260523T153000Z
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА (практика)
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\nАудитория: В-601\nПодгруппа 1\nГруппа: ВТВ-467
-LOCATION:В-601
-END:VEVENT
-BEGIN:VEVENT
-UID:5ee7b843-78d5-4c6e-93fd-cf14dbbcfad6
-DTSTART:20260307T071000Z
-DTEND:20260307T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:e2616546-a354-43ae-9a8b-a3a1dc362ae9
-DTSTART:20260404T071000Z
-DTEND:20260404T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:d1c42ecb-0a63-4515-97a1-bc79125e712b
-DTSTART:20260502T071000Z
-DTEND:20260502T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:d4a4c783-9dc1-4ea8-9913-10a0c67d13e8
-DTSTART:20260530T071000Z
-DTEND:20260530T102000Z
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАудитория: В-1302\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:dcc6e4f1-94de-4773-9133-5fab22259f79
-DTSTART:20260314T085000Z
-DTEND:20260314T121000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:7150640d-b945-45ac-a190-985fc987feef
-DTSTART:20260425T085000Z
-DTEND:20260425T121000Z
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:f6060b48-3807-46e2-8662-0d248f07951c
-DTSTART:20260515T153500Z
-DTEND:20260515T183000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:a5c4112e-f3db-4dca-8943-614478dd0061
-DTSTART:20260529T153500Z
-DTEND:20260529T183000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:a2edbdbd-84f8-412a-9572-530765ff626c
-DTSTART:20260516T104000Z
-DTEND:20260516T135000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:da5b3086-9ca4-40bd-ba9f-f8af1a2e1e93
-DTSTART:20260530T104000Z
-DTEND:20260530T135000Z
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ (Лабораторная работа)
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\nАудитория: В-1301\nПодгруппа 2\nГруппа: ВТВ-467
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:exam-vtv467-intro-dev-20260615
-DTSTART:20260615T104000Z
-DTEND:20260615T124000Z
-SUMMARY:Экзамен: Введение в разработку программного обеспечения
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\\nАудитория: В-1301\\nГруппа: ВТВ-467
-LOCATION:ВГТУ, В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:exam-vtv467-infosec-20260620
-DTSTART:20260620T104000Z
-DTEND:20260620T124000Z
-SUMMARY:Экзамен: Защита информации
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1302\\nГруппа: ВТВ-467
-LOCATION:ВГТУ, В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:ad7cfdfd-32c0-5437-99a3-63eff1c374bb
-DTSTART:20260910T153500Z
-DTEND:20260910T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:56efd396-3414-5d5e-8843-82856b8e7015
-DTSTART:20261008T153500Z
-DTEND:20261008T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:cf7bbc02-9c64-5ef5-bbfb-f87a834e35a8
-DTSTART:20261105T153500Z
-DTEND:20261105T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:87118d57-711e-5d71-b014-d13462fae162
-DTSTART:20261203T153500Z
-DTEND:20261203T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:89c7dd9d-f1f6-5032-9698-0b7a03c962fb
-DTSTART:20260910T170500Z
-DTEND:20260910T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:967ecfdb-1b5a-5f4c-b65f-2e1b6a1c52b9
-DTSTART:20261008T170500Z
-DTEND:20261008T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:f93c71c3-8456-5e4c-86e8-1c81596a8a14
-DTSTART:20261105T170500Z
-DTEND:20261105T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:1d8f044d-f5de-5845-ae9e-acca40d1986a
-DTSTART:20261203T170500Z
-DTEND:20261203T183000Z
-SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ (лекция)
-DESCRIPTION:Преподаватель: доц. Конченков В.И.\\nАудитория: В-1302\\nГруппа: ВТВ-567
-LOCATION:В-1302
-END:VEVENT
-BEGIN:VEVENT
-UID:811a7d0a-94fc-5f50-8742-8a622bab84ae
-DTSTART:20260911T153500Z
-DTEND:20260911T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:71a9295d-2b77-5063-9f91-aa456b9de700
-DTSTART:20261009T153500Z
-DTEND:20261009T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:82884ffa-1425-5838-9781-ba5a331b2de9
-DTSTART:20261106T153500Z
-DTEND:20261106T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:2394fd99-60f3-520b-bfc3-553069cb8544
-DTSTART:20261204T153500Z
-DTEND:20261204T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:d89baa76-5889-5e69-be01-2e8fd24d7d80
-DTSTART:20260911T170500Z
-DTEND:20260911T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лабораторная)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:3cfc6549-3170-5ca1-8d7e-2040ae00544e
-DTSTART:20261009T170500Z
-DTEND:20261009T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лабораторная)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:318d2ede-efec-538f-921a-c410d2ef5fd3
-DTSTART:20261106T170500Z
-DTEND:20261106T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лабораторная)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:9742b856-0776-566d-a80d-86b1ec0eaeae
-DTSTART:20261204T170500Z
-DTEND:20261204T183000Z
-SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВАТЕЛЯ (лабораторная)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:1c514716-1a7f-5cfa-acbe-1b254c96cb5e
-DTSTART:20260914T153500Z
-DTEND:20260914T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лекция)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:b458125e-055e-5afc-a62f-bc6bcce65616
-DTSTART:20261012T153500Z
-DTEND:20261012T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лекция)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:a091ef7a-763e-500e-99b4-af131948cd2c
-DTSTART:20261109T153500Z
-DTEND:20261109T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лекция)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:70820a1f-ed0d-5df2-b87e-24b1a9500258
-DTSTART:20261207T153500Z
-DTEND:20261207T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лекция)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:3851d5d6-60d1-5f62-ab6c-8924ebf488f1
-DTSTART:20260916T153500Z
-DTEND:20260916T183000Z
+UID:39d3ca74-8104-5e8b-ab35-1740d255bc44@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260916T183500
+DTEND;TZID=Europe/Moscow:20260916T200000
 SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
 LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:887737f7-d312-59c1-bd11-6fe40884a1cf
-DTSTART:20261014T153500Z
-DTEND:20261014T183000Z
+UID:2c74012a-f6b6-5941-a34c-afa7368a1c04@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260917T183500
+DTEND;TZID=Europe/Moscow:20260917T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc15a1f-0d86-5b12-8e77-9d675cbe8709@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260917T200500
+DTEND;TZID=Europe/Moscow:20260917T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (п
+ рактика)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:158809f5-ab58-578c-a67d-588be96bb081@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260918T183500
+DTEND;TZID=Europe/Moscow:20260918T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32ddef09-c965-53ae-a0fa-20af9142fa3a@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260919T152000
+DTEND;TZID=Europe/Moscow:20260919T165000
+SUMMARY:СХЕМОТЕХНИКА (лекция)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
+LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b68294c-b3aa-5a0b-b55b-b8f669de2433@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260925T183500
+DTEND;TZID=Europe/Moscow:20260925T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e14acd7-46e8-574b-8fe5-7b6c613d6c14@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260925T200500
+DTEND;TZID=Europe/Moscow:20260925T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лаб
+ ораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:22b31b76-1df7-5c5d-9b8e-44039dbcce77@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20260930T200500
+DTEND;TZID=Europe/Moscow:20260930T213000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практик
+ а)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bff45749-fe82-5bdd-b40e-d7624d73162f@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261001T183500
+DTEND;TZID=Europe/Moscow:20261001T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:57ce0a46-1ddf-5e90-a183-319074a0f2c6@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261001T200500
+DTEND;TZID=Europe/Moscow:20261001T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ абораторная)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d34a23a0-5278-5bc5-aa69-a0b97772dca2@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261008T183500
+DTEND;TZID=Europe/Moscow:20261008T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лекция)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3c140f-a67c-5b45-9d8c-931a6eb17de8@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261009T183500
+DTEND;TZID=Europe/Moscow:20261009T200000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3643bcf7-661b-5a99-8b01-e2c5071fc2d5@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261009T200500
+DTEND;TZID=Europe/Moscow:20261009T213000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9261173c-ac6e-53ba-8af6-9751afa856e9@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261012T183500
+DTEND;TZID=Europe/Moscow:20261012T200000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лекция)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:005b4d60-e84c-51c4-baa4-d1ee02083113@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261012T200500
+DTEND;TZID=Europe/Moscow:20261012T213000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:efa4ea18-6c5c-5900-8823-aefe3efb4709@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261014T183500
+DTEND;TZID=Europe/Moscow:20261014T200000
 SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
 LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7d623663-bb17-55c3-a2cd-689a3c71f35d
-DTSTART:20261111T153500Z
-DTEND:20261111T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:1b4e6986-0441-5ada-833a-9489d1a1fb3b
-DTSTART:20261209T153500Z
-DTEND:20261209T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:ad875a3a-8966-595f-9abe-4675411bbb6c
-DTSTART:20260917T153500Z
-DTEND:20260917T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (лекция)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:86dbfd8f-aad7-5d69-83bd-8a6abcdc8603@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261015T183500
+DTEND;TZID=Europe/Moscow:20261015T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:57690793-bb18-5d73-9542-982f059d8dcd
-DTSTART:20261015T153500Z
-DTEND:20261015T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (лекция)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:958603ea-c4f0-503f-bf81-7ea264eb9d90@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261015T200500
+DTEND;TZID=Europe/Moscow:20261015T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (п
+ рактика)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ad631b7c-6921-5602-b9e2-b57978608fce
-DTSTART:20261112T153500Z
-DTEND:20261112T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (лекция)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:d3a4e097-3714-5b60-9824-d19a7b520fbe@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261016T183500
+DTEND;TZID=Europe/Moscow:20261016T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aaac42ce-37b1-5d61-98ae-730dacfedb12
-DTSTART:20261210T153500Z
-DTEND:20261210T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (лекция)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:a04b4f83-579f-5e4c-8cd4-664ff1b3797c
-DTSTART:20260917T170500Z
-DTEND:20260917T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (практика)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:155f6ccf-cff9-505b-8a7c-480b7595b930
-DTSTART:20261015T170500Z
-DTEND:20261015T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (практика)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:c5589bc3-a1dd-55b7-9c98-80fea71606bf
-DTSTART:20261112T170500Z
-DTEND:20261112T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (практика)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:dc2cbd11-e22a-5e68-8c41-23a78ac17252
-DTSTART:20261210T170500Z
-DTEND:20261210T183000Z
-SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (практика)
-DESCRIPTION:Преподаватель: доц. Коптелова И.А.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:89a16b95-a98c-525b-9d6d-1384b9fbf664
-DTSTART:20260918T153500Z
-DTEND:20260918T183000Z
-SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:5c0825d6-8a4a-585f-bf1a-b43af7dc92cc
-DTSTART:20261016T153500Z
-DTEND:20261016T183000Z
-SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:0a057773-fdba-5765-8b37-cfa9fcc5e21e
-DTSTART:20261113T153500Z
-DTEND:20261113T183000Z
-SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:d66e69a4-1a8a-5eba-8478-63c50d11925c
-DTSTART:20261211T153500Z
-DTEND:20261211T183000Z
-SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:0241c9be-b330-5060-be71-ebfc0e23de9e
-DTSTART:20260919T122000Z
-DTEND:20260919T153000Z
+UID:b1976a77-a656-5ba1-94f7-ebc1ece03c4d@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261017T152000
+DTEND;TZID=Europe/Moscow:20261017T165000
 SUMMARY:СХЕМОТЕХНИКА (лекция)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
 LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c381cfd0-7f8b-56e6-ba7a-910b99a77216
-DTSTART:20261017T122000Z
-DTEND:20261017T153000Z
-SUMMARY:СХЕМОТЕХНИКА (лекция)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
-LOCATION:В-1303
+UID:d47e0f2d-9618-5839-a157-d290acd7ae83@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261022T183500
+DTEND;TZID=Europe/Moscow:20261022T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:97a93991-a93e-53bc-acb0-b8ff0dceabb8
-DTSTART:20261114T122000Z
-DTEND:20261114T153000Z
-SUMMARY:СХЕМОТЕХНИКА (лекция)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
-LOCATION:В-1303
-END:VEVENT
-BEGIN:VEVENT
-UID:d1f9ef92-0d1d-566e-9b42-9706c543fb2d
-DTSTART:20261212T122000Z
-DTEND:20261212T153000Z
-SUMMARY:СХЕМОТЕХНИКА (лекция)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
-LOCATION:В-1303
-END:VEVENT
-BEGIN:VEVENT
-UID:8a5ee266-982d-5993-a350-6909a0a0160d
-DTSTART:20260928T170500Z
-DTEND:20260928T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:a5809b30-bebd-5028-b7d6-76980a50dc62@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261023T183500
+DTEND;TZID=Europe/Moscow:20261023T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a456a222-63cb-5b96-9a03-f01b5eb8b352
-DTSTART:20261026T170500Z
-DTEND:20261026T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:bbdc0164-7e9a-5c4c-8597-efad46fa4b52@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261023T200500
+DTEND;TZID=Europe/Moscow:20261023T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лаб
+ ораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a6167489-b3ea-5de1-acd7-cb97bff2e21f
-DTSTART:20261124T170500Z
-DTEND:20261124T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:2383f741-3d8d-5051-852f-268e298a3f40
-DTSTART:20261221T170500Z
-DTEND:20261221T183000Z
-SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
-DESCRIPTION:Преподаватель: пр. Борисов А.С.\\nАудитория: В-1301\\nГруппа: ВТВ-567
-LOCATION:В-1301
-END:VEVENT
-BEGIN:VEVENT
-UID:f80b718b-7ac3-5b74-884e-53c9f2b11d48
-DTSTART:20260930T170500Z
-DTEND:20260930T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практика)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
+UID:c14e6bdb-5245-5f0f-9665-31ae73a40a42@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261028T200500
+DTEND;TZID=Europe/Moscow:20261028T213000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практик
+ а)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
 LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7e8e8a9e-3ae4-5f63-8d87-6b35d84cbff3
-DTSTART:20261028T170500Z
-DTEND:20261028T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практика)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:7475c3e8-7144-5220-b503-c03e09bdf7c3
-DTSTART:20261125T170500Z
-DTEND:20261125T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практика)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:f12c7bda-f0a6-5b65-aa9e-64b3c3ccfa0c
-DTSTART:20261223T170500Z
-DTEND:20261223T183000Z
-SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практика)
-DESCRIPTION:Преподаватель: кафедра физкультуры\\nГруппа: ВТВ-567
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:8b7e2820-aad5-5dff-be35-35b461f1e37b
-DTSTART:20261030T170500Z
-DTEND:20261030T183000Z
-SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:5a18bf4a-0fde-56fa-8d42-ed011478caba@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261029T183500
+DTEND;TZID=Europe/Moscow:20261029T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9950bffe-f8b8-5f8d-b6ce-c02c893fb530
-DTSTART:20261127T170500Z
-DTEND:20261127T183000Z
-SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:1688dba8-6f56-5a9c-89c9-d42df2c83278@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261029T200500
+DTEND;TZID=Europe/Moscow:20261029T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ абораторная)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:28ea6193-ea6e-5b6f-b1cf-2cf0118863a9
-DTSTART:20261225T170500Z
-DTEND:20261225T183000Z
-SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лекция)
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\\nАудитория: В-1301\\nГруппа: ВТВ-567
+UID:406cbcdd-90d2-541f-88d1-1c5641e6a41e@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261030T200500
+DTEND;TZID=Europe/Moscow:20261030T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лек
+ ция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
 LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ce04babd-a530-541f-8e0b-f28a7caabad1
-DTSTART:20261031T140000Z
-DTEND:20261031T153000Z
+UID:eb371d99-91db-5395-aefe-bf519170719e@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261031T170000
+DTEND;TZID=Europe/Moscow:20261031T200000
 SUMMARY:СХЕМОТЕХНИКА (лабораторная)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
 LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c2ebfe81-35ed-5dcf-a319-6365e1cfb1c6
-DTSTART:20261128T140000Z
-DTEND:20261128T153000Z
-SUMMARY:СХЕМОТЕХНИКА (лабораторная)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
-LOCATION:В-1303
+UID:15fac8de-d61a-55bf-9cf5-102b9588406a@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261105T183500
+DTEND;TZID=Europe/Moscow:20261105T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лекция)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:64794bfc-21b7-5497-b2f8-003dfebfa34c
-DTSTART:20261226T140000Z
-DTEND:20261226T153000Z
-SUMMARY:СХЕМОТЕХНИКА (лабораторная)
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\\nАудитория: В-1303\\nГруппа: ВТВ-567
+UID:26a842e8-cde7-54ee-b7ad-df7196c6e517@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261106T183500
+DTEND;TZID=Europe/Moscow:20261106T200000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6e5da9-983d-52e2-a913-8c93dbd75d4d@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261106T200500
+DTEND;TZID=Europe/Moscow:20261106T213000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc42ed80-1158-50e6-8eac-d68939f68d51@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261109T183500
+DTEND;TZID=Europe/Moscow:20261109T200000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лекция)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0222e33a-3062-55a4-b2d1-95b383cdd3fe@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261109T200500
+DTEND;TZID=Europe/Moscow:20261109T213000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a22e735c-0bf9-5533-91db-39dcd8bcd594@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261111T183500
+DTEND;TZID=Europe/Moscow:20261111T200000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3ba788-6e76-5073-ab9a-e7e1a35c57e9@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261112T183500
+DTEND;TZID=Europe/Moscow:20261112T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cce7f747-6a18-5ceb-bb23-0de3e2729a29@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261112T200500
+DTEND;TZID=Europe/Moscow:20261112T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (п
+ рактика)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fb17da-85da-57ea-bad6-b04a1f20b772@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261113T183500
+DTEND;TZID=Europe/Moscow:20261113T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6689757-18bc-5bd5-94d7-e9034c69c368@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261114T152000
+DTEND;TZID=Europe/Moscow:20261114T165000
+SUMMARY:СХЕМОТЕХНИКА (лекция)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
 LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5514c11-7f67-5422-80bc-51d567aa2067@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261120T183500
+DTEND;TZID=Europe/Moscow:20261120T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b32f2a12-ea5b-5e71-a0ed-557e18ee5cbc@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261120T200500
+DTEND;TZID=Europe/Moscow:20261120T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лаб
+ ораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b846bdb-358c-536f-aeb1-cbced055b920@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261125T200500
+DTEND;TZID=Europe/Moscow:20261125T213000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практик
+ а)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f01babb5-851d-51ef-881f-b3eb85ae8d2a@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261126T183500
+DTEND;TZID=Europe/Moscow:20261126T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a0bebf6-b4d7-5499-b8c3-f59829591b8b@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261126T200500
+DTEND;TZID=Europe/Moscow:20261126T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ абораторная)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dba3f216-9a33-5dfb-976c-57778f5a0ccb@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261127T200500
+DTEND;TZID=Europe/Moscow:20261127T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лек
+ ция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c116524b-0755-56ab-95bf-566c4be6cd67@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261128T170000
+DTEND;TZID=Europe/Moscow:20261128T200000
+SUMMARY:СХЕМОТЕХНИКА (лабораторная)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
+LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3e508e-a297-542f-9eb3-e845b67e7b88@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261203T183500
+DTEND;TZID=Europe/Moscow:20261203T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лекция)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1f8d86-fb3a-5282-9410-962fe79b2698@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261204T183500
+DTEND;TZID=Europe/Moscow:20261204T200000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:75e2e0ff-d139-5336-ad92-ca8461b1ab48@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261204T200500
+DTEND;TZID=Europe/Moscow:20261204T213000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6744b57b-2f42-5460-a280-9a32354cd25d@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261207T183500
+DTEND;TZID=Europe/Moscow:20261207T200000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лекция)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3733fdb3-59c5-5676-b81f-b24cd524c92b@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261207T200500
+DTEND;TZID=Europe/Moscow:20261207T213000
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ (лабораторная)
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\nАуд
+ итория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6275761-ceba-5f65-8016-6f3c91b8151a@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261209T183500
+DTEND;TZID=Europe/Moscow:20261209T200000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (лекция)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d550367a-77d2-57e5-bd11-85a870894874@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261210T183500
+DTEND;TZID=Europe/Moscow:20261210T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d796bfa-8f87-5fa4-a87b-530384fcb356@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261210T200500
+DTEND;TZID=Europe/Moscow:20261210T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (п
+ рактика)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 1\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4203d79f-95a4-5481-97e1-23e4b8e7029c@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261211T183500
+DTEND;TZID=Europe/Moscow:20261211T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лекция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c93f20-3edc-5fb3-add1-77ed7895257d@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261212T152000
+DTEND;TZID=Europe/Moscow:20261212T165000
+SUMMARY:СХЕМОТЕХНИКА (лекция)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
+LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98b83a5b-b7b0-56d1-b33b-81ac24dba672@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261217T183500
+DTEND;TZID=Europe/Moscow:20261217T213000
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМИ
+  ДАННЫХ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\n
+ Аудитория: В-1302\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:08796c90-3f1b-5381-9b0d-50cce1e2609f@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261218T183500
+DTEND;TZID=Europe/Moscow:20261218T200000
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧИ
+ СЛИТЕЛЬНОЙ ТЕХНИКИ (лабораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ab4582-a17b-57c7-88b3-78f90c2d6b86@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261218T200500
+DTEND;TZID=Europe/Moscow:20261218T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лаб
+ ораторная)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fadb0f7b-5e99-58e5-a9da-79167ecdc5d2@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261223T200500
+DTEND;TZID=Europe/Moscow:20261223T213000
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (практик
+ а)
+DESCRIPTION:Преподаватель: кафедра физкультур
+ ы\nВ исходной таблице дополнительно указ
+ ано: 25.12.2026 г.\nГруппа: ВТВ-567
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:faf55e0e-4f3b-5bf0-ae73-a89d1461396d@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261224T183500
+DTEND;TZID=Europe/Moscow:20261224T200000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ екция)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd89d867-228a-5239-ac9f-c6fb07d55056@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261224T200500
+DTEND;TZID=Europe/Moscow:20261224T213000
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ (л
+ абораторная)
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\n
+ Аудитория: В-1301\nПодгруппа: 2\nГруппа: ВТВ-5
+ 67
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53e6ebdd-7ce3-5edd-9f69-6097c7ebf921@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261225T200500
+DTEND;TZID=Europe/Moscow:20261225T213000
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ (лек
+ ция)
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\nАу
+ дитория: В-1301\nГруппа: ВТВ-567
+LOCATION:В-1301
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:55169fc4-3457-5a19-9577-b55830abdce4@schedule-vstu-vtv
+DTSTAMP:20260827T153703Z
+DTSTART;TZID=Europe/Moscow:20261226T170000
+DTEND;TZID=Europe/Moscow:20261226T200000
+SUMMARY:СХЕМОТЕХНИКА (лабораторная)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nАуд
+ итория: В-1303\nГруппа: ВТВ-567
+LOCATION:В-1303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
