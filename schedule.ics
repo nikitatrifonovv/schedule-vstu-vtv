@@ -1015,4 +1015,17 @@ LOCATION:В-1303
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:0d361c63-35ac-56df-b137-831ca77672a7@schedule-vstu-vtv
+DTSTAMP:20260924T000000Z
+DTSTART;TZID=Europe/Moscow:20260930T183500
+DTEND;TZID=Europe/Moscow:20260930T213000
+SUMMARY:СХЕМОТЕХНИКА (лабораторная)
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\nФор
+ мат: дистант\nГруппа: ВТВ-567\nИндивидуальн
+ ое дополнение к расписанию
+LOCATION:дистант
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
